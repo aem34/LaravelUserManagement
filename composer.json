@@ -49,8 +49,8 @@
                 "Mekaeil\\LaravelUserManagement\\LaravelUserManagementProvider"
             ]
         }
-    }
-        "repositories": [
+    },
+    "repositories": [
     {
         "type": "vcs",
         "url": "git@github.com:aem34/LaravelUserManagement.git"
